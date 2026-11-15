@@ -1,0 +1,17 @@
+data/*
+.venv
+/shims
+/version
+/versions
+/sources
+/cache
+/libexec/*.dylib
+/src/Makefile
+/src/*.o
+/bats
+/bats-*/
+/default-packages
+.idea
+*.un~
+*.swp
+__pycache__/*
